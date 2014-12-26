@@ -11,14 +11,12 @@ Blog: http://bjglife.blogspot.tw/
 share_memory - a share memory using sample
 
     #make 
-get file: get, init
-
+    ---> get files: get, init
+    
     #./init
-shmID = 5701644
-
+    shmID = 5701644
     #./get 5701644
-get share ID = 5701644
-wrote by Bejo
-second line
+    get share ID = 5701644
+    wrote by Bejo
+    second line
 
-    #make clean
